@@ -1,4 +1,4 @@
-![]('./name-banner.png')
+!['Name Banner'](name-banner.png)
 ### Hi there, I'm Patrick Clarke 👋
 I am a passionate Software Engineer that specializes in  Web Applications. I am a voracious non-fiction reader which is how I learned how to program in C++ since I was 16. Then I moved on to Web Programming and other technologies all through to University and I'm still learning in my free time.
 
