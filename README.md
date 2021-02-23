@@ -11,15 +11,15 @@ I am a passionate Software Engineer that specializes in  Web Applications. I am 
 Skills in this section are the skills I use most often and on a project I use a combination of them
 - 🌐 **Web Development (4.9/5)** - Currently, Web Development is my most cultivated skill. From basic HTML, CSS, Javascript and PHP to Laravel, Node.js, Vue.js, Bulma and Bootstrap
 
-- 🌐 **Laravel (4/5)** - Laravel is the PHP Framework I currently use most often when making websites.
+- 🗄 **Laravel (4/5)** - Laravel is the PHP Framework I currently use most often when making websites.
 
-- 🌐 **Vue.js (4/5)** - Since 2020 every component in my web projects use Vue.js as well as it's supporting frameworks such as Vuex
+- 📃 **Vue.js (4/5)** - Since 2020 every component in my web projects use Vue.js as well as it's supporting frameworks such as Vuex
 
 - 🎨 **CSS Frameworks (4.5.5)** - My CSS Framework of choice is _Bulma.io_. I know how to use other frameworks without trouble such as *Bootstrap*.
 
 - 🔐 **Linux Administration (3.5/5)** - Since 2019 I've worked on a Linux Machine (Linux Mint) and I am more productive on my projects than with a Wndows machine. I've had to learn the basics of system administration and know intermediate system admistration such as firewall management (using ufw), user management, and service management.
 
-- 🗄 **PHP (5/5)** - PHP Is the language I staarted doing Back-end Development (2017) with and I still use it for most of my projects through the *Laravel* Framework.
+- 🗄 **PHP (5/5)** - PHP Is the language I started doing Back-end Development (2017) with and I still use it for most of my projects through the *Laravel* Framework.
 
 - 📜 **Javascript (4.5/5)** - Javascript took some getting used to, but I did it. I mainly use it for browser applications but I know how to use it with other technologies such as *Node.js*
 
@@ -28,12 +28,14 @@ Skills in this section are the skills I use most often and on a project I use a 
 - 💾 **Git and Github (4/5)** - It was around 2019 where I learned about Git and late 2020 where I started uploading the projects to my Github regularly. Working with Git in my projects is a breeze and collaborating on a repository with other developers is manageable for me
 
 ### Some Knowledge and Skills
-Skills in this section I have knowledge on and personal experiecne using it but I don't use it often.
+Skills in this section I have knowledge on and personal experience using it but I don't use it often.
 - 🐳 **Docker (2.5/5)** - I know docker is a very useful tool that can be used to export and run projects run on many computers without trouble. I mainly use to to test out software, I don't really export with it, Git and GitHub are my current solutions.
+
+- 📦 **Webpack (2/5)** - I normally use Webpack through another framework such as Laravel Mix. I do know how to make simple `webpack.config.js` files from scratch.
 
 - 🖨 **Wordpress (2.5/5)** - Wordpress is great for making business sites and blogs like my website [Valley of Code](https://valleyofcode.com). However I find it easier to make a website myself; I find Wordpress restrictive. <s>I often find it as more of a restriction than a help, I have read a couple books and many articles on Wordpress  but customizing the sites is the hardest part for me. If I was writing a site with HTML, CSS, and JS I would have a better time using it but I don't have that unless I'm making a custom theme.</s> Perhaps I just need more practice but I don't use it unless I'm making a quick blog site.
 
-- ☕️ **Java (3.5)** - I have used Java in University to make things from Simple Console Applications to Desktop GUI Applications. 
+- ☕️ **Java (3/5)** - I have used Java in University to make things from Simple Console Applications to Desktop GUI Applications. However I don't use it as a day-to-day programming language
 
 - 🗄 **Apache Server (2.8/5)** - Apache Server is what I normally use to run PHP Web Servers. I thus have knowledge on how to properly configure the server using the *apache2.conf* and *.htaccess* files. Most settings are rare for me to change such as showing the directory index, changing the server root, or creating a new `<Directory>`
 
