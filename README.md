@@ -1,8 +1,8 @@
 ![Name Banner](name-banner.png)
-# Hi there, I'm Patrick Clarke 👋
+# Hi there, I'm Patrick Clarke 👋 🇯🇲
 I am a passionate Software Engineer that specializes in  Web Applications. I am a voracious non-fiction reader which is how I learned how to program in C++ since I was 16. Then I moved on to Web Programming and other technologies all through to University and I'm still learning in my free time.
 
-**Education:** University of Technology<br/>
+**Education:** University of Technology, Jamaica<br/>
 **Degree:** Bachelor of Computing&nbsp;&nbsp;**Major** Computer Science<br/>
 **Links** to my [Portfolio](http:portfolio.valleyofcode.com) & [Resume](http://portfolio.valleyofcode.com/assets/pdf/resume-creative.pdf)<br/>
 **Social**: Facebook • Instagram • Twitter • [Linkedin](www.linkedin.com/in/patrick-clarke-pc) • [Github](https://github.com/iipajcii) (You are Here)
