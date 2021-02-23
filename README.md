@@ -5,7 +5,7 @@ I am a passionate Software Engineer that specializes in  Web Applications. I am 
 **Education:** University of Technology<br/>
 **Degree:** Bachelor of Computing Major Computer Science<br/>
 **Links** to my [Portfolio](http:portfolio.valleyofcode.com) & [Resume](http://portfolio.valleyofcode.com/assets/pdf/resume-creative.pdf)<br/>
-**Social**: Facebook • Instagram • Twitter • [Linkedin](www.linkedin.com/in/patrick-clarke-pc) • [Github](https://github.com/iipajcii)
+**Social**: Facebook • Instagram • Twitter • [Linkedin](www.linkedin.com/in/patrick-clarke-pc) • [Github](https://github.com/iipajcii) (You are Here)
 ## Skills and Knowledge
 ### Deep Knowledge and Skills
 Skills in this section are the skills I use most often and on a project I use a combination of them
