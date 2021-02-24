@@ -7,7 +7,7 @@ I am a passionate Software Engineer that specializes in  Web Applications. I am 
 **Links** to my [Portfolio](http:portfolio.valleyofcode.com) & [Resume](http://portfolio.valleyofcode.com/assets/pdf/resume-creative.pdf)<br/>
 **Social**: Facebook • Instagram • Twitter • [Linkedin](www.linkedin.com/in/patrick-clarke-pc) • [Github](https://github.com/iipajcii) (You are Here)
 ## Skills and Knowledge
-### Deep Knowledge and Skills
+### 🌳 Deep Knowledge and Skills: 
 Skills in this section are the skills I use most often and on a project I use a combination of them
 - 🌐 **Web Development (4.9/5)** - Currently, Web Development is my most cultivated skill. From basic HTML, CSS, Javascript and PHP to Laravel, Node.js, Vue.js, Bulma and Bootstrap
 
@@ -27,7 +27,7 @@ Skills in this section are the skills I use most often and on a project I use a 
 
 - 💾 **Git and Github (4/5)** - It was around 2019 where I learned about Git and late 2020 where I started uploading the projects to my Github regularly. Working with Git in my projects is a breeze and collaborating on a repository with other developers is manageable for me
 
-### Some Knowledge and Skills
+### 🌿 Some Knowledge and Skills:
 Skills in this section I have knowledge on and personal experience using it but I don't use it often.
 - 🐳 **Docker (2.5/5)** - I know docker is a very useful tool that can be used to export and run projects run on many computers without trouble. I mainly use to to test out software, I don't really export with it, Git and GitHub are my current solutions.
 
